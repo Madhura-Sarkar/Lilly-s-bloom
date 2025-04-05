@@ -115,7 +115,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 80vh;
-    background: url(assets\cover\ \(1\).png) no-repeat;
+    background: url(cover\ \(1\).png) no-repeat;
     background-size: cover;
     background-position: center;
 }
